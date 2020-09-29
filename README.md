@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is an online store provides you everything you need at cheap prices.
 
 <!--
 **dahranwalaonlinestore/dahranwalaonlinestore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
